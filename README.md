@@ -1,4 +1,4 @@
-# 📌 InstaMark – Smart Attendance System 🚀  
+# Smart Attendance System 🚀  
 [![Made with Love](https://img.shields.io/badge/Made%20with-Love-red.svg)](#)  
 [![Node.js](https://img.shields.io/badge/Backend-Node.js-brightgreen)](#)  
 [![React](https://img.shields.io/badge/Frontend-React-blue)](#)  
