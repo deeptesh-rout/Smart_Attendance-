@@ -38,9 +38,9 @@ With **real-time attendance tracking**, InstaMark enables **organizers, instruct
 ---
 
 # Clone the Repository  
-https://github.com/deeptesh-rout/Smart_Attendance-
+git clone https://github.com/deeptesh-rout/Smart_Attendance-
 
-cd InstaMark-Smart_Attendance-
+cd Smart_Attendance-
 
 # Install Dependencies  
 cd frontend
