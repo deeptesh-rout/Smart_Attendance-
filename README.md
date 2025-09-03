@@ -3,7 +3,7 @@
 [![Node.js](https://img.shields.io/badge/Backend-Node.js-brightgreen)](#)  
 [![React](https://img.shields.io/badge/Frontend-React-blue)](#)  
 
-## 📢 About InstaMark  
+## 📢 About SmartAttendence
 
 **InstaMark** is a **web-based attendance tracking system** designed to simplify event-based attendance management. It eliminates manual errors using **Dynamic QR Codes** and provides **secure and efficient check-ins** for **hackathons, workshops, corporate events, and educational sessions**.  
 
